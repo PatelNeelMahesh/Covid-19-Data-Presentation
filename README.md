@@ -1,5 +1,10 @@
 In the project directory, you can run:
 
+### npm i @material-ui/core
+### npm i numeral
+### npm install --save react-chartjs-2 chart.js
+### npm i react-chartjs-2 
+
 ### `npm start`
 
 Runs the app in the development mode.\
